@@ -1,0 +1,15 @@
+{
+  "name": "tsrpc_province_rank_frontend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsrpc-browser": "^3.4.11",
+    "tsrpc-miniapp": "^3.4.11"
+  }
+}
